@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ali Falahati / Site Title"
+title                    : "Ali Falahati"
 title_separator          : "-"
 name                     : &name "Ali Falahati"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ali Falahati"
-  avatar           : "avatar.jpg"
+  avatar           : "avatar.JPG"
   bio              : "BSc @ Sharif University"
   location         : "Tehran, Iran"
   employer         :
