@@ -16,6 +16,7 @@ I am currently a scientific intern at **Max Planck Institute for Software System
 Prior to that, I worked on calculating protein-ligand binding free energy using a physics-guided graph neural network under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at **California State University**.
 
 
+  
 
 📌 Research Interests 
 ======
@@ -27,10 +28,12 @@ I am generally curious about the intersection of Machine Learning with Social Sc
 - Deep Learning
 
 
+  
 
 📰 Research Experience
 ======
-Graph Neural Networks
+
+Blockchain
 ------
 
 My Bsc thesis is on "Online Anomaly Detection using Generative Graph Neural Networks". 
