@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![networks](/images/felan.jpg){: .align-right width="300px"}
+![networks](/images/felan.jpg){: .align-right width="250px"}
 I’m a bachelor student studying Computer Science at Sharif University of Technology.  
   
 
