@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a bachelor student studying Computer Science at Sharif University of Technology. I am currently a scientific intern at Max Planck Institute of Software Systems Germany where I have the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and developing new type of node called Watcher nodes in blockchain. Prior to that, I worked on Protein-Ligand binding under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at California State University.
+I’m a bachelor student studying Computer Science at Sharif University of Technology. I am currently a scientific intern at Max Planck Institute for Software Systems, Germany where I have the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and developing new type of node called Watcher nodes in blockchain. Prior to that, I worked on Protein-Ligand binding under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at California State University.
 
 
 Research Interest 
@@ -19,6 +19,7 @@ I am generally curious about the intersection of machine learning, information t
 - Neural Networks’ Training and Inference Acceleration
 - Privacy and Fairness
 - High Dimensional Statistics
+
 I have worked on:
 
 - Neural Networks’ Training and Inference Acceleration
