@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":wave:👋 Hello, there, I'm Ali"
+title: "👋 Hello, there, I'm Ali"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 ![networks](/images/felan.jpg){: .align-right width="280px"}
-I’m a bachelor student studying Computer Science at Sharif University of Technology.  
+I’m a bachelor student studying Computer Science at **Sharif University of Technology**.  
   
 
-I am currently a scientific intern at Max Planck Institute for Software Systems, Germany where I have the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and developing new type of node called Watcher nodes in blockchain.    
+I am currently a scientific intern at **Max Planck Institute for Software Systems**, Germany where I have the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and developing new type of node called Watcher nodes in blockchain.    
 
-Prior to that, I worked on Protein-Ligand binding under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at California State University.
+Prior to that, I worked on Protein-Ligand binding under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at **California State University**.
 
 
 
-Research Interest 
+📌 Research Interests 
 ======
 I am generally curious about the intersection of Machine Learning with Social Sciences. My main areas of interest include:
 
-- Graph Machine Learning
+- Graph Neural Networks
 - Computational Social Science
 - Health Care AI
 - Deep Learning
