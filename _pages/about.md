@@ -11,9 +11,9 @@ redirect_from:
 I’m a bachelor student studying Computer Science at **Sharif University of Technology**.  
   
 
-I am currently a scientific intern at **Max Planck Institute for Software Systems**, Germany where I have the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and developing new type of node called Watcher nodes in blockchain.    
+I am currently a scientific intern at **Max Planck Institute for Software Systems**, Germany where I have the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and blockchain.    
 
-Prior to that, I worked on calculating protein-ligand binding free energy using a physics-guided graph neural network under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at **California State University**.
+Prior to that, I worked on protein-ligand binding under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at **California State University**.
 
 
   
@@ -33,7 +33,7 @@ I am generally curious about the intersection of Machine Learning with Social Sc
 📰 Research Experience
 ======
 
-Blockchain
+Graph Neural Networks
 ------
 
 My Bsc thesis is on "Online Anomaly Detection using Generative Graph Neural Networks". 
