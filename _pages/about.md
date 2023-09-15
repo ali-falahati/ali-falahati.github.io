@@ -20,7 +20,7 @@ Prior to that, I worked on drug discovery using GNN under the supervision of [Pr
 
 📌 Research Interests 
 ======
-I am generally curious about the intersection of Machine Learning with Social Sciences. My main areas of interest include:
+I am generally curious about the intersection of Machine Learning with Social Sciences. My main areas of interests include:
 
 - Graph Neural Networks
 - Computational Social Science
