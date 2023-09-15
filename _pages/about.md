@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![networks](/images/felan.png){: .align-right width="300px"}
+![networks](/images/felan.jpg){: .align-right width="300px"}
 I’m a bachelor student studying Computer Science at Sharif University of Technology. I am currently a scientific intern at Max Planck Institute for Software Systems, Germany where I have the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and developing new type of node called Watcher nodes in blockchain. Prior to that, I worked on Protein-Ligand binding under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at California State University.
 
 
@@ -20,7 +20,6 @@ I am generally curious about the intersection of Machine Learning with Social Sc
 - Health Care AI
 - Deep Learning
 
-I have worked on:
 
 
 Getting started
