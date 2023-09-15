@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: ":wave:👋 Hello, there, I'm Ali"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-![networks](/images/felan.jpg){: .align-right width="250px"}
+![networks](/images/felan.jpg){: .align-right width="280px"}
 I’m a bachelor student studying Computer Science at Sharif University of Technology.  
   
 
