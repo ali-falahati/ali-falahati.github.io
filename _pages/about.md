@@ -13,18 +13,14 @@ I’m a bachelor student studying Computer Science at Sharif University of Techn
 
 Research Interest 
 ======
-I am generally curious about the intersection of machine learning, information theory, statistics, and optimization. My main areas of interest include:
+I am generally curious about the intersection of Machine Learning with Social Sciences. My main areas of interest include:
 
-- Distributed Machine Learning
-- Neural Networks’ Training and Inference Acceleration
-- Privacy and Fairness
-- High Dimensional Statistics
+- Graph Machine Learning
+- Computational Social Science
+- Health Care AI
+- Deep Learning
 
 I have worked on:
-
-- Neural Networks’ Training and Inference Acceleration
-- Communication Channels in the Presence of Myopic Adversaries.
-- Privacy and Communication Chalenges in Federated Learning.
 
 
 Getting started
