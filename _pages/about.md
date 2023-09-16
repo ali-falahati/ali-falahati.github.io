@@ -30,14 +30,19 @@ I am generally curious about the intersection of Machine Learning with Social Sc
 
 
   
+  
 
 📰 Research Experience
 ======
 
+
+
 👹 Graph Neural Networks
 ------
+__Under supervision of professor Laurent Bindschaedler, Max Planck Institute for Software Systems (Sep-Ongoing 2023)__  
 
 My Bsc thesis is on “__OGRE: Online Anomaly Detection using Generative Graph Neural Networks__”.  
+
 __OGRE__ is a project that focuses on online anomaly detection using Generative Graph Neural Networks. After a successful summer at the Max Planck Institute, we have decided to extend our project. Our new project is a direct result of our previous work, which introduced the concept of Watcher nodes.  
 
 In traditional fintech products like Paypal, fraudulent activities are detected before they occur and then sent for further inspection. However, in the blockchain space, we can only track fraudulent activities and there are no mechanisms in place to prevent them from happening. Before the introduction of Watcher nodes, online anomaly detection in blockchain seemed infeasible due to factors such as the lack of access to historical events in a reasonable time. With the introduction of Watcher nodes, each node can retrieve historical data regarding a wallet address or contract much faster than the current method.  
@@ -50,6 +55,8 @@ OGRE leverages both the structural and feature-based anomalies of the graphs. Th
 
 💊 Drug Discovery
 ------
+__Under supervision of professor Negin Forouzesh, California State University (Aug-Ongoing 2023)__  
+
 Molecular fingerprints are essential cheminformatics tools for machine learning with applications in drug discovery. We develop a novel graph convolutional network (GCN) to predict the binding free energy of protein-ligand complexes. By adding a physics-based layer to the network architecture, the accuracy of the molecular fingerprint has been improved while potential overfitting has been avoided.  
 
 In this project, I had the exciting opportunity to contribute significantly by taking on the responsibility of developing and rigorously testing the PGGCN graph model. The aim was to enhance the overall performance of graph learning. What makes this project even more rewarding is the fact that our model is set to be seamlessly integrated into the esteemed Deepchem (the de facto deep learning library for chemistry) library.  
@@ -58,6 +65,23 @@ Throughout the development and testing phase, my focus was on optimizing the per
 
 📇 ML Systems & Blockchain
 ------
+__Under supervision of professor Laurent Bindschaedler, Max Planck Institute for Software Systems (Jun-Oct 2023)__  
+
+During my summer internship at Max Planck, I worked on creating a Watcher node, which was a new type of node with the ability to query analytical and complex queries. This addressed a significant unsolved problem in the Ethereum chain. Ethereum clients like Geth traditionally use an OLTP database for storing transactions, which limits their ability to deliver historical information such as the balance of a wallet or the amount of transactions issued from an address within a given time.  
+
+My responsibility was to modify the Geth client and its underlying database to use an OLAP (Online Analytical Processing) database instead. For this project, I utilized the Go programming language. The results were remarkable, with the new approach being 100 times faster than the traditional method of retrieving historical data.  
+
+This improvement in data retrieval speed opened up new possibilities for conducting analytical queries on the Ethereum blockchain, enabling more efficient and effective analysis of transactional data. This project was a significant step towards enhancing the overall functionality and performance of the Ethereum network.
+
+***The paper for this project is currently in progress and is scheduled to be submitted by November.***  
+
+🌊 Data Science 
+------
+__Under supervision of professor Nasrin Alamdari, Florida State University (May-Aug 2022)__  
+
+I joined the Climate change and Water resources research team at Florida State University as their data scientist and machine learning engineer.  
+
+I helped with multiple projects on automating computer software for water resources modeling and machine learning applications to complex natural and man-made systems. The projects sought to find cost-effective strategies for water quality improvement and flood mitigation using multi-objective optimization as well as prediction of harmful algal blooms in freshwater and coastal water using various watershed and water body variables.  
 
 
 
