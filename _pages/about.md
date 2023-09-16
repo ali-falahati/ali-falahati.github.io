@@ -6,7 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+---  
+
 ![networks](/images/felan.jpg){: .align-right width="280px"}
 I’m a bachelor student studying Computer Science at **Sharif University of Technology**.  
   
@@ -22,10 +23,10 @@ Prior to that, I worked on drug discovery using GNN under the supervision of [Pr
 ======
 I am generally curious about the intersection of Machine Learning with Social Sciences. My main areas of interests include:
 
-- Graph Neural Networks
-- Computational Social Science
-- Health Care AI
-- Deep Learning
+- __Graph Neural Networks__
+- __Computational Social Science__
+- __Health Care AI__
+- __Deep Learning__
 
 
   
@@ -55,7 +56,7 @@ In this project, I had the exciting opportunity to contribute significantly by t
 
 Throughout the development and testing phase, my focus was on optimizing the performance of the graph model. This involved carefully fine-tuning the various components and parameters, as well as conducting rigorous testing to ensure its accuracy and reliability.  
 
-📇 ML Systems & Blockchan
+📇 ML Systems & Blockchain
 ------
 
 
