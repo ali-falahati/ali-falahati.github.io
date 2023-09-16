@@ -18,5 +18,10 @@ main:
   - title: "CV"
     url: /files/Resumer.pdf
     
+  - title: "Research Experience"
+    url: /research/
+
   - title: "Courses"
     url: /courses/
+
+    
