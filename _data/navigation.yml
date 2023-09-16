@@ -18,6 +18,8 @@ main:
   - title: "CV"
     url: /files/Resumer.pdf
     
+  - title: "Research"
+    url: /research/
 
   - title: "Work"
     url: /work/
