@@ -26,6 +26,7 @@ redirect_from:
 - Game Theory
 - Linear Algebra
 - Advanced Programming
+- Sociology
 
 
 
