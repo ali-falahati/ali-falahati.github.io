@@ -33,7 +33,7 @@ I am generally curious about the intersection of Machine Learning with Social Sc
 
   
 
-📰 Research Experience
+📰 Research Experiences
 ======
 I have been fortunate to collaborate with brilliant scientists from MPI, Cal State, FSU, and SUT, exploring various fields of machine learning.  
  
@@ -84,15 +84,20 @@ I joined the Climate change and Water resources research team at Florida State U
 
 I helped with multiple projects on automating computer software for water resources modeling and machine learning applications to complex natural and man-made systems. The projects sought to find cost-effective strategies for water quality improvement and flood mitigation using multi-objective optimization as well as prediction of harmful algal blooms in freshwater and coastal water using various watershed and water body variables.  
 
-
-
-How to edit your site's GitHub repository
+🚦 Big Data for Tehran Traffic
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+_Under supervision of [Professor Iman Gholampour](http://sina.sharif.ir/~imangh/index.html), Sharif University of Technology (Oct-Feb 2022-2023)_  
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+As part of my Massive Data Analysis course project, I conducted research on implementing and analyzing various big data and machine learning algorithms using __Spark__ and __Hadoop__. Specifically, I focused on algorithms such as Apriori, LSH (Locality-Sensitive Hashing), CF-ALS (Collaborative Filtering with Alternating Least Squares), HITS (Hyperlink-Induced Topic Search), SVD (Singular Value Decomposition), and PIXIE on Tehran Traffic data.  
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+The main objective of the project was to detect anomaly patterns in the driving behavior of drivers in Tehran using speed control cameras. By analyzing the data from these cameras, we aimed to identify any abnormal driving patterns that may indicate traffic violations or unsafe driving practices.  
+Additionally, another aspect of the project involved predicting traffic in different locations throughout the city. By leveraging the collected data and applying machine learning techniques, we aimed to develop models that could accurately forecast traffic conditions in various parts of Tehran. This information would be valuable for traffic management and congestion control purposes.  
+
+Overall, this project provided valuable insights into the application of big data algorithms for traffic analysis and prediction. we aimed to contribute to the development of effective traffic management strategies in Tehran.  
+
+***You can find some notebooks related to this project in this [repository](http://sina.sharif.ir/~imangh/index.html)***  
+
+
+🏢 Work Experiences
+======
+
