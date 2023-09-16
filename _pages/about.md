@@ -80,9 +80,11 @@ This improvement in data retrieval speed opened up new possibilities for conduct
 ------
 _Under supervision of [Professor Nasrin Alamdari](https://www.nasrinalamdari.com/), Florida State University (May-Aug 2022)_  
 
-I joined the Climate change and Water resources research team at Florida State University as their data scientist and machine learning engineer.  
+I joined the Climate Change and Water Resources Research team at Florida State University as their data scientist and machine learning engineer. In this role, I actively participated in multiple projects focused on automating computer software for water resources modeling and applying machine learning techniques to complex natural and man-made systems.  
 
-I helped with multiple projects on automating computer software for water resources modeling and machine learning applications to complex natural and man-made systems. The projects sought to find cost-effective strategies for water quality improvement and flood mitigation using multi-objective optimization as well as prediction of harmful algal blooms in freshwater and coastal water using various watershed and water body variables.  
+One of the key objectives of these projects was to identify cost-effective strategies for improving water quality and mitigating floods through the use of multi-objective optimization. Additionally, we worked on predicting harmful algal blooms in freshwater and coastal water by leveraging various watershed and water body variables.  
+
+In addition to modeling and analysis, I also contributed to data visualization efforts and the development of analytical dashboards. I was responsible for setting up databases and pipelines to ensure efficient data management and processing.  
 
 🚦 Big Data for Tehran Traffic
 ------
@@ -99,5 +101,28 @@ Overall, this project provided valuable insights into the application of big dat
 
 
 🏢 Work Experiences
-======
+======  
+
+📦 Co-Founder of Kargo
+------
+_Full-time, Tehran, Iran (Dec-Feb 2021-2023)_  
+I co-founded Kargo, a startup that aimed to become the first group-lancing platform for AI and data science projects. Our goal was to connect companies looking to outsource their AI projects, such as business analytics, churn prediction, sales forecasting, and data management jobs like setting up data warehouses and pipelines, with skilled freelancers in our network.  
+
+At Kargo, I took on the responsibility of making contracts with companies that needed AI expertise. We ensured that we fully understood their project requirements and objectives. Once the contracts were established, we distributed the projects to our in-house freelancers who had the relevant skills and expertise.  
+
+Our platform provided a seamless experience for both companies and freelancers. We facilitated the entire project lifecycle, from scoping and planning to execution and delivery.   
+
+***Kargo was acquired by Hermes Capital.***
+
+
+📈 Data Scientist at Hermes Capital
+------
+
+
+👨🏻‍🏫 Data Scientist at Hermes Capital
+------
+
+
+
+
 
