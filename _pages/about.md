@@ -34,12 +34,12 @@ I am generally curious about the intersection of Machine Learning with Social Sc
 
 📰 Research Experience
 ======
-
-
+I have been fortunate to collaborate with brilliant scientists from MPI, Cal State, FSU, and SUT, exploring various fields of machine learning.  
+ 
 
 👹 Graph Neural Networks
 ------
-__Under supervision of professor Laurent Bindschaedler, Max Planck Institute for Software Systems (Sep-Ongoing 2023)__  
+_Under supervision of professor Laurent Bindschaedler, Max Planck Institute for Software Systems (Sep-Ongoing 2023)_  
 
 My Bsc thesis is on “__OGRE: Online Anomaly Detection using Generative Graph Neural Networks__”.  
 
@@ -55,7 +55,7 @@ OGRE leverages both the structural and feature-based anomalies of the graphs. Th
 
 💊 Drug Discovery
 ------
-__Under supervision of professor Negin Forouzesh, California State University (Aug-Ongoing 2023)__  
+_Under supervision of professor Negin Forouzesh, California State University (Aug-Ongoing 2023)_  
 
 Molecular fingerprints are essential cheminformatics tools for machine learning with applications in drug discovery. We develop a novel graph convolutional network (GCN) to predict the binding free energy of protein-ligand complexes. By adding a physics-based layer to the network architecture, the accuracy of the molecular fingerprint has been improved while potential overfitting has been avoided.  
 
@@ -65,7 +65,7 @@ Throughout the development and testing phase, my focus was on optimizing the per
 
 📇 ML Systems & Blockchain
 ------
-__Under supervision of professor Laurent Bindschaedler, Max Planck Institute for Software Systems (Jun-Oct 2023)__  
+_Under supervision of professor Laurent Bindschaedler, Max Planck Institute for Software Systems (Jun-Oct 2023)_  
 
 During my summer internship at Max Planck, I worked on creating a Watcher node, which was a new type of node with the ability to query analytical and complex queries. This addressed a significant unsolved problem in the Ethereum chain. Ethereum clients like Geth traditionally use an OLTP database for storing transactions, which limits their ability to deliver historical information such as the balance of a wallet or the amount of transactions issued from an address within a given time.  
 
@@ -75,9 +75,9 @@ This improvement in data retrieval speed opened up new possibilities for conduct
 
 ***The paper for this project is currently in progress and is scheduled to be submitted by November.***  
 
-🌊 Data Science 
+🌊 Data Science for Climate change
 ------
-__Under supervision of professor Nasrin Alamdari, Florida State University (May-Aug 2022)__  
+_Under supervision of professor Nasrin Alamdari, Florida State University (May-Aug 2022)_  
 
 I joined the Climate change and Water resources research team at Florida State University as their data scientist and machine learning engineer.  
 
