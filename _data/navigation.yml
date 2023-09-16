@@ -24,7 +24,13 @@ main:
   - title: "Work"
     url: /work/
 
+  - title: "Projects"
+    url: /project/
+
   - title: "Courses"
     url: /courses/
+
+  - title: "Misc."
+    url: /misc/
 
     
