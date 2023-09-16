@@ -32,7 +32,7 @@ I have always been deeply intrigued by the fascinating overlap between the field
 
 To get a comprehensive understanding of my [Research](https://www.calstatela.edu/faculty/negin-forouzesh) and [Work](https://www.calstatela.edu/faculty/negin-forouzesh) experiences, as well as my [Projects](https://www.calstatela.edu/faculty/negin-forouzesh), please take a look at my detailed descriptions.  
 
-Besides my professional pursuits, I have a deep passion for reading. I consider myself a true bookworm and find joy in immersing myself in books, expanding my knowledge, and exploring different worlds through literature. Reading is not only a hobby for me, but also a way to relax, learn, and broaden my perspective. You can view some of my favorite books in the Misc. tab.  
+Besides my professional pursuits, I have a deep passion for reading. I consider myself a true bookworm and find joy in immersing myself in books, expanding my knowledge, and exploring different worlds through literature. Reading is not only a hobby for me, but also a way to relax, learn, and broaden my perspective. You can view some of my favorite books in the [Misc.](https://www.calstatela.edu/faculty/negin-forouzesh) tab.  
 In addition to books, I also enjoy listening to podcasts and practicing daily meditation.
 
 <!-- 📰 Research Experiences
