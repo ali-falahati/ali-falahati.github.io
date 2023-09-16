@@ -33,7 +33,7 @@ I am generally curious about the intersection of Machine Learning with Social Sc
 
   
 
-📰 Research Experiences
+<!-- 📰 Research Experiences
 ======
 I have been fortunate to collaborate with brilliant scientists from MPI, Cal State, FSU, and SUT, exploring various fields of machine learning.  
  
@@ -120,7 +120,7 @@ Our platform provided a seamless experience for both companies and freelancers. 
 ------
 Hermes Capital is a prominent fintech company based in Tehran, Iran, dedicated to revolutionizing the Iranian Stock Market and Cryptocurrency Market through its expertise in Algorithmic Trading and Machine Learning approaches.  
 
-As a Data Scientist at Hermes Capital, my role involved extensive research and exploration of Reinforcement Learning Algorithms, with a specific focus on Deep Q-Network (DQN) algorithms. I successfully developed a robust and efficient infrastructure for algorithmic trading using Python, leveraging the power of Machine Learning to analyze market data and make data-driven investment decisions.  
+As a Data Scientist at Hermes Capital, my role involved extensive research and exploration of Reinforcement Learning Algorithms, with a specific focus on Deep Q-Network (DQN) algorithms. I successfully developed a robust and efficient infrastructure for algorithmic trading using Python, leveraging the power of Machine Learning to analyze market data and make data-driven investment decisions.   -->
 
 
 
