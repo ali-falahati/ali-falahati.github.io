@@ -81,3 +81,27 @@ I'm seriously blown away by how people can completely toss reason out the window
 In his book, "The Happiness Hypothesis," Jonathan Haidt breaks down why we struggle so damn hard to change our opinions and behaviors. By mixing up old-school wisdom with cognitive research, Haidt dives deep into happiness, meaning, and what the hell makes us act so damn weird sometimes. He hammers home the idea that understanding how the human mind works is crucial, and he gives some killer tips for finding happiness. Haidt also gets into the nitty-gritty of how our minds are basically in a constant battle with each other, where emotions often take the lead over reason. He lays it out that our brains are wired to prioritize survival, which means we've got a major bias towards negativity and totally irrational reactions to stuff we think is threatening. These knee-jerk responses make it super tough to think ahead and let rational arguments sink in.  
 
 To make some real changes in our attitudes and behaviors, Haidt suggests putting our focus on training the emotional side of our minds instead of just relying on conscious thought. He's all about self-improvement practices like meditation, cognitive therapy, and even Prozac. By helping folks get a handle on their social lives and automatic responses, we can dial down the influence of our emotional instincts during public debates and actually connect better with others.  
+
+
+___
+
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Steven D. Levitt, Stephen J. Dubner)
+------
+![nations](/images/freak.jpg){: .align-right width="250px" }  
+
+First of all, what does the title of the book mean? The book is about two prominent economists, Freakonomics (meaning "out of the ordinary" in their own words), who explore cultural and social issues and try to find unconventional answers using economic techniques (for example, one of the laws of economics: People react to incentives).  
+
+If you love economics, proving issues with statistics, thinking outside the box, analyzing data, and sociological issues in general, I'm sure this book can satisfy a good portion of your desires. Overall, this book does not have a unified theme. Each chapter raises a question and in pursuit of answering that question, we encounter dozens of other questions and answers. These questions may seem very ordinary at first glance, but in their depth, answers are found that we may have never thought of, and all of these answers are justified using statistics and data analysis.  
+
+In this book, what we are primarily dealing with is "Conventional wisdom", meaning a unified cultural and social perspective on issues that the majority of society agrees on. The book begins with the sentence "The conventional wisdom is often wrong," and the main focus of the book is challenging these social taboos.  
+
+In other sections, the book delves into the issue of cheating among students and even professors, examines the economics of drug substances up close, or addresses issues of racial and gender discrimination, proving that many things we accepted as facts may not be true and we need to look at the issues from a different perspective to find the real answer.  
+
+A significant portion of the book deals with a different view of the correlation and causality between common phenomena in society, which is extraordinary in its own right, to the extent that you probably won't be able to put the book down until the end of the chapter!  
+
+If you have some social-cultural concerns and believe that some issues are not as they should be, give this book a try. Read it and feel the power of social sciences 😇  
+
+> Lastly, a sentence from the book:
+
+> "If morality represents the ideal world,  
+> Economics represents the actual world"
