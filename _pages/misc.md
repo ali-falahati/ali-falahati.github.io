@@ -21,7 +21,7 @@ ___
 
 Complexity: A Guided Tour (Melanie Mitchell)
 ------
-![complexity](/images/complexity.jpg){: .align-right width="290px" }  
+![complexity](/images/complexity2.jpg){: .align-right width="250px" }  
 
 This book provides a general and immersive introduction to the fascinating field of complexity. Complexity, which covers various scientific areas like biology, computer science, genetics, and network theory, is explored with exceptional clarity and depth by the author.  
 
@@ -67,3 +67,17 @@ So, there's this book, right? It's by Daron Acemoglu and James A. Robinson. Basi
 
 A must read book for all people in 3rd world countries.  
 This book is one of the few that really changed the way I think about History and Democracy.
+
+
+
+___
+
+The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom (Jonathan Haidt)
+------
+![nations](/images/happy.jpg){: .align-right width="250px" }  
+
+I'm seriously blown away by how people can completely toss reason out the window when it comes to public debates about land use.  
+
+In his book, "The Happiness Hypothesis," Jonathan Haidt breaks down why we struggle so damn hard to change our opinions and behaviors. By mixing up old-school wisdom with cognitive research, Haidt dives deep into happiness, meaning, and what the hell makes us act so damn weird sometimes. He hammers home the idea that understanding how the human mind works is crucial, and he gives some killer tips for finding happiness. Haidt also gets into the nitty-gritty of how our minds are basically in a constant battle with each other, where emotions often take the lead over reason. He lays it out that our brains are wired to prioritize survival, which means we've got a major bias towards negativity and totally irrational reactions to stuff we think is threatening. These knee-jerk responses make it super tough to think ahead and let rational arguments sink in.  
+
+To make some real changes in our attitudes and behaviors, Haidt suggests putting our focus on training the emotional side of our minds instead of just relying on conscious thought. He's all about self-improvement practices like meditation, cognitive therapy, and even Prozac. By helping folks get a handle on their social lives and automatic responses, we can dial down the influence of our emotional instincts during public debates and actually connect better with others.  
