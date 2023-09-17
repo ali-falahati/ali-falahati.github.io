@@ -75,7 +75,7 @@ ___
 
 The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom (Jonathan Haidt)
 ------
-![nations](/images/happy.jpg){: .align-right width="250px" }  
+![happy](/images/happy.jpg){: .align-right width="250px" }  
 
 I'm seriously blown away by how people can completely toss reason out the window when it comes to public debates about land use.  
 
@@ -105,6 +105,7 @@ A significant portion of the book deals with a different view of the correlation
 > Economics represents the actual world"  
 
 
+___
 
 Steve Jobs (Walter Isaacson)
 ------
@@ -121,3 +122,92 @@ Jobs had the potential to continue changing the world, and it's remarkable to re
 This is not just a success story. Jobs co-founded the world's most valuable company in his parents' garage. However, there were also failures after the initial success with the Apple II and the Macintosh. After detours with NeXT (another failure) and Pixar (a huge success), he returned to Apple (at the time a sinking ship) and turned them into a huge success story.  
 
 I gotta say, the main reason this book really hits home for me is that it was such an exciting time. Man, I would have absolutely loved to be there when Jobs (and his buddies and rivals) were inventing the future. I mean, with Jobs, it would have been an absolute blast, and yeah, probably pretty darn frustrating too.  
+
+
+___
+___
+
+Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are (Seth Stephens-Davidowitz)
+------
+![lie](/images/lie.jpg){: .align-right width="250px" }  
+
+In Yuval Noah Harari's book "Homo Deus: A Brief History of Tomorrow," he talks about dataism as the emerging ideology or even a new form of religion where "information flow" is the "supreme value". And in another valuable book, we have another interesting author who sheds light on "Big data" and how we humans can use this data to study ourselves. It shows how Big data can be revolutionary, especially in areas where we lack sufficient information. Harari predicts that in the new age, the most powerful person is the one with the most data. In this book, Seth Stephens-Davidowitz benefits a lot from the data collected by Google, Facebook, and other firms, showing us just how powerful and influential these corporations are.  
+
+Throughout the book, there are many intriguing questions that lead to big answers. And more importantly, when Big data answers our big questions without proper explanation, it leads to practical ideas and pragmatic scientists and individuals. We may not know what happens between point A and point B, but that's less important.  
+
+Some of the book's titles include "Was Freud right?", "The truth about Sex", "The truth about the internet", and "Can we handle the truth?". These chapters reveal important facts about us, especially in regards to sexuality and the darker, undiscovered parts of our psyche. Towards the end of the book, there are many ethical and philosophical questions raised, as well as the limitations of big data.  
+
+The importance of this book lies in its ability to open new dimensions and stimulate the imagination of intellectuals and anyone interested in knowing what lies ahead. It's crucial to have an understanding of Big data and how everything we do is being saved and turned into numbers that can be used to our advantage or against us.  
+
+
+___
+
+What I Talk About When I Talk About Running (Haruki Murakami)
+------
+![run](/images/run.jpg){: .align-right width="250px" }  
+
+> A man who walked until he could  
+
+The book was very beautiful, revolving around several themes, and above all, my favorite author Haruki Murakami, a memoir blended with personality and individual philosophy beautifully expressed in the form of running. Most famous writers navigate through mixed problems in their lives, but undoubtedly Murakami is among the few writers who live even better and healthier than the general public, and perhaps these small differences create the main distinction.  
+
+How important can running be that we want to write a book about it? How much does a painful habit shape our character? All these are questions that it is impossible to find a worthy answer to until you become familiar with the book.  
+
+> **Pain is inevitable. Suffering is optional**  
+
+But when it comes to running, what are we really talking about? What factor exists that forces a person to leave the house before sunrise and endure the pain of running in heat and cold? Or spend half a year training for 100-kilometer marathons? Regular running is more than just a confrontation between pain and pleasure. The amount of suffering (not pain) necessary in each person's life may be part of the individual's character.  
+
+In a part of Murakami's book, he refers to the idea that in order to become a writer, you must have a deadly poison inside you, and with the help of that poison, you can be a successful writer. But on the other hand, this poison gradually destroys your existence if you cannot control it. Firstly, it affects your writing ability, and secondly, it may end your life like other writers who have committed suicide.  
+
+Murakami is a strange person, and we must accept this. The fact that someone who was busy with his bar business until the age of 30 suddenly decides in the middle of a baseball game to abandon everything and start writing, just like that 😀
+
+
+
+
+
+
+___  
+
+Darkness Visible: A Memoir of Madness (William Styron)
+------
+![mad](/images/mad.jpg){: .align-right width="250px" }  
+
+This tiny little book wasn't an easy read. Mr. Styron eases us into his own story by sharing stories of other writers and artists who went through deep depression. Some made it through but most didn't. His stories are filled with a deep understanding that he admits can only come from personal experience.  
+
+We're not talking about a few days or even a week or two of feeling down, but rather months where the elevator keeps going down no matter how many times you press the Up button. The rawness of Mr. Styron's descent into deep depression is what made it tough to read. Like he said, the wide range of symptoms and quirks of depression continue to make it hard to treat.  
+
+There's no simple "cure" or "one-size-fits-all" remedy like there is for other diseases and illnesses. The relentless descriptions of the reality he faced every day for months were an eye-opener that I won't forget anytime soon. I'll also always remember that he did manage to get through it; just as his elevator hit rock bottom, it changed direction and slowly started to climb up again. Not without a close call, and not without a lot of help.  
+He stresses this point and also provides some solid advice and words of wisdom for anyone living with someone who suffers from depression, whether it's a family member or a friend. Oh, and he also mentioned that he hopes a better word will be found someday for this condition, as he believes "depression" is too dull and boring and doesn't come close to describing the intense and painful storms that occur in the minds and emotions of those struggling with debilitating depression.  
+
+ I definitely recommend this book to anyone who is dealing with depression themselves or has a family member or friend who is. It could potentially save someone's life.  
+
+
+
+___  
+
+Narconomics: How to Run a Drug Cartel (Tom Wainwright)
+
+------
+![narco](/images/narco.jpg){: .align-right width="250px" }  
+
+
+ This is not just a book about drugs, but it takes a practical look at many areas of business and economics. It's strangely addictive, informative, and engaging. Don't worry, tabloid newspapers, this book doesn't promote using illegal drugs or idolize drug cartels in any way. With a conservative worth of over USD300 billion a year, the people running this business clearly know what they're doing. Laws aside, you can't run something of this scale without well-established structures in place. If anything, the operation could potentially be even larger and more efficient if it were legal.  
+
+You can approach this book from two perspectives. You can learn more about the global drugs trade and see how it successfully applies big-business techniques. Or, you can use the examples provided to better understand business concepts that are often wrapped in theory and can be challenging to grasp. This book serves both purposes well, presented in an easy-to-read and informative format.  
+
+The author demonstrates how business practices like mergers and acquisitions, competition and collaboration, social responsibility, media relations, human resources, franchising, and strong management oversight are utilized within the drugs business. You might never see it in the same way again.  
+
+You don't have to be a business enthusiast to gain a lot from this book. It's great for general readers and particularly suitable for those interested in business or the global drugs industry.  
+
+
+___  
+
+Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts (Annie Duke)
+------
+![bet](/images/bet.jpg){: .align-right width="250px" }  
+
+
+This book is really awesome when it comes to the basics of making smarter decisions. It's just simple and easy-to-understand advice backed up with cool stories, examples, and lots of references to other books to read more. The main point in this book is that the world is hardly ever black and white. Nothing is 100% certain. Instead of being super confident about something, you should start thinking about how confident you really are about it. Some people only care about the results and don't even consider that the decisions they made might have been right based on the odds. They mix up the result with the correctness of the decision. When you get a result from your decision, you first need to figure out whether the reason for that result was skill or just pure luck. After that, you can start learning from your experience.  
+
+Annie does an amazing job covering the best strategies for making decisions, the different flaws in our thinking, and so much more, like game theory. But you know what my favorite part was? Annie teaches us about what she calls "resulting", which is basically how we judge our decisions based on the outcomes instead of the process. Let me tell you, that really hit home for me.  
+
+Now, I'm not gonna lie, I'm still not a poker pro, but reading this book, along with all the others that I read as a result of this one, has seriously improved my life in so many ways. It's been a game-changer, no doubt about it.  
