@@ -6,6 +6,7 @@ redirect_from:
   - /project/
   - /project.html
 ---
+Here is a review of some of the best non-fiction books that I've read. I also read a lot of fiction and manga, but I prefer not to include them here (Guilty pleasure 😄).
 
 Range: Why Generalists Triumph in a Specialized World (David Epstein)
 ------
@@ -87,21 +88,36 @@ ___
 
 Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Steven D. Levitt, Stephen J. Dubner)
 ------
-![nations](/images/freak.jpg){: .align-right width="250px" }  
+![freak](/images/freak.jpg){: .align-right width="250px" }  
 
 First of all, what does the title of the book mean? The book is about two prominent economists, Freakonomics (meaning "out of the ordinary" in their own words), who explore cultural and social issues and try to find unconventional answers using economic techniques (for example, one of the laws of economics: People react to incentives).  
 
 If you love economics, proving issues with statistics, thinking outside the box, analyzing data, and sociological issues in general, I'm sure this book can satisfy a good portion of your desires. Overall, this book does not have a unified theme. Each chapter raises a question and in pursuit of answering that question, we encounter dozens of other questions and answers. These questions may seem very ordinary at first glance, but in their depth, answers are found that we may have never thought of, and all of these answers are justified using statistics and data analysis.  
 
 In this book, what we are primarily dealing with is "Conventional wisdom", meaning a unified cultural and social perspective on issues that the majority of society agrees on. The book begins with the sentence "The conventional wisdom is often wrong," and the main focus of the book is challenging these social taboos.  
-
 In other sections, the book delves into the issue of cheating among students and even professors, examines the economics of drug substances up close, or addresses issues of racial and gender discrimination, proving that many things we accepted as facts may not be true and we need to look at the issues from a different perspective to find the real answer.  
 
 A significant portion of the book deals with a different view of the correlation and causality between common phenomena in society, which is extraordinary in its own right, to the extent that you probably won't be able to put the book down until the end of the chapter!  
+**If you have some social-cultural concerns and believe that some issues are not as they should be, give this book a try. Read it and feel the power of social sciences 😇**  
 
-If you have some social-cultural concerns and believe that some issues are not as they should be, give this book a try. Read it and feel the power of social sciences 😇  
-
-> Lastly, a sentence from the book:
-
+> Lastly, a sentence from the book:  
 > "If morality represents the ideal world,  
-> Economics represents the actual world"
+> Economics represents the actual world"  
+
+
+
+Steve Jobs (Walter Isaacson)
+------
+![steve](/images/steve.jpg){: .align-right width="250px" }  
+
+After having read this biography for a third time now, I have made peace with this fact and will just write whatever comes to my mind at this very moment.  
+
+Steve Jobs was a standout figure among entrepreneurs and celebrities. He had a unique and intense personality, driving him to revolutionize multiple industries in his relatively short but highly productive career. Jobs had a keen eye for beauty and a wide range of interests, positioning himself at the intersection of art and technology.  
+While Jobs was both a jerk and a genius, this biography presents an honest portrayal of him. It portrays his quirks, his ability to distort reality, and his binary worldview. Despite any personal opinions about him, the book evokes emotions, especially as it was written during his battle with cancer.  
+Jobs had the potential to continue changing the world, and it's remarkable to reflect on the things we take for granted today because of his vision and determination. He often believed that people didn't know what they wanted until he showed them, a mindset exemplified by his famous quote from Henry Ford.  
+
+> "The best way to predict the future is to invent it."  
+
+This is not just a success story. Jobs co-founded the world's most valuable company in his parents' garage. However, there were also failures after the initial success with the Apple II and the Macintosh. After detours with NeXT (another failure) and Pixar (a huge success), he returned to Apple (at the time a sinking ship) and turned them into a huge success story.  
+
+I gotta say, the main reason this book really hits home for me is that it was such an exciting time. Man, I would have absolutely loved to be there when Jobs (and his buddies and rivals) were inventing the future. I mean, with Jobs, it would have been an absolute blast, and yeah, probably pretty darn frustrating too.  
