@@ -9,7 +9,7 @@ redirect_from:
 
 📦 Co-Founder of Kargo
 ------
-_Full-time, Tehran, Iran (Dec-Feb 2021-2023)_  
+_Part-time, Tehran, Iran (Dec-Feb 2021-2023)_  
 
 I co-founded Kargo, a startup that aimed to become the first group-lancing platform for AI and data science projects. Our goal was to connect companies looking to outsource their AI projects, such as business analytics, churn prediction, sales forecasting, and data management jobs like setting up data warehouses and pipelines, with skilled freelancers in our network.  
 
@@ -22,7 +22,7 @@ Our platform provided a seamless experience for both companies and freelancers. 
 
 📈 Data Scientist at Hermes Capital
 ------
-_Full-time, Tehran, Iran (Dec-Feb 2021-2023)_  
+_Part-time, Tehran, Iran (Dec-Feb 2021-2023)_  
 
 Hermes Capital is a prominent fintech company based in Tehran, Iran, dedicated to revolutionizing the Iranian Stock Market and Cryptocurrency Market through its expertise in Algorithmic Trading and Machine Learning approaches.  
 
