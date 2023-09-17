@@ -184,8 +184,8 @@ He stresses this point and also provides some solid advice and words of wisdom f
 
 ___  
 
-Narconomics: How to Run a Drug Cartel (Tom Wainwright)
 
+Narconomics: How to Run a Drug Cartel (Tom Wainwright)
 ------
 ![narco](/images/narco.jpg){: .align-right width="250px" }  
 
