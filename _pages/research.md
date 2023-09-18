@@ -69,4 +69,4 @@ Additionally, another aspect of the project involved predicting traffic in diffe
 
 Overall, this project provided valuable insights into the application of big data algorithms for traffic analysis and prediction. we aimed to contribute to the development of effective traffic management strategies in Tehran.  
 
-***You can find some notebooks related to this project in this [repository](http://sina.sharif.ir/~imangh/index.html)***  
+***You can find some notebooks related to this project in this [repository](https://github.com/Mortrest/Tehran-Traffic-Data-Spark)***  
