@@ -37,6 +37,6 @@ In addition to books, I also enjoy listening to podcasts and practicing daily me
 
 ___
 
-***Random fact***: I haven't been using paper for reading and writing for the past 6 years. I'm all about digital note-taking and ebooks, you know? 📚💻  
+***Random fact***: I haven't used paper for reading and writing for the past 6 years. I'm all about digital note-taking and ebooks, you know? 📚💻  
 
 >Let's do some calculations. If we assume that every student goes to class for 180 days and takes an average of 6 classes, with 2 pages used for note-taking, brainstorming, and other activities, and 2 pages used for assignments and homework for each class, we can figure out that each student uses about 3000 pages per year. Considering that each school has 200 students, and based on online research suggesting a total of around 5 million schools worldwide by 2023, schools are effectively using 3 trillion pages each year. Roughly speaking, each tree produces 10,000 sheets. So, if we calculate it, schools around the world are using ***300 million trees each year***, assuming no recycling happens. Math doesn't lie though…
