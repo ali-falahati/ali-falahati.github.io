@@ -8,13 +8,8 @@ redirect_from:
   - /about.html
 ---  
 
-![networks](/images/felan.jpg){: .align-right width="280px"}
-I'm currently a graduate researcher at McMaster University. I recieved my bachelor degree in Computer Science at **Sharif University of Technology**.  
-  
-
-I was a scientific intern at **Max Planck Institute for Software Systems**, Germany where I had the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and blockchain.    
-
-Prior to that, I worked on drug discovery using GNN under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at **California State University**.
+<!-- ![networks](/images/felan.jpg){: .align-right width="280px"} -->
+I'm currently a graduate researcher at McMaster University. I recieved my bachelor degree in Computer Science at **Sharif University of Technology**. I was a scientific intern at **Max Planck Institute for Software Systems**, Germany where I had the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and blockchain. Prior to that, I worked on drug discovery using GNN under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at **California State University**.
 
 
   
@@ -24,7 +19,7 @@ Prior to that, I worked on drug discovery using GNN under the supervision of [Pr
  My main areas of interests include:  
 
 - __Data Centric AI__
-- ___Data Valuation__
+- __Data Valuation__
 - __Large Language Models__
 
  __To get a comprehensive understanding of my [Research](https://ali-falahati.github.io/research/) and [Work](https://ali-falahati.github.io/work/) experiences, as well as my [Projects](https://ali-falahati.github.io/pj/), please take a look at my detailed descriptions.__ 
