@@ -9,7 +9,7 @@ redirect_from:
 ---  
 
 <!-- ![networks](/images/felan.jpg){: .align-right width="280px"} -->
-I'm currently a graduate researcher at McMaster University. I recieved my bachelor degree in Computer Science at **Sharif University of Technology**. I was a scientific intern at **Max Planck Institute for Software Systems**, Germany where I had the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and blockchain. Prior to that, I worked on drug discovery using GNN under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at **California State University**.
+I'm currently a graduate researcher at **McMaster University**. I recieved my bachelor degree in Computer Science at **Sharif University of Technology**. I was a scientific intern at **Max Planck Institute for Software Systems**, Germany where I had the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and blockchain. Prior to that, I worked on drug discovery using GNN under the supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh) at **California State University**.
 
 
   

@@ -7,19 +7,20 @@ redirect_from:
   - /research.html
 ---
 
-I have been fortunate to collaborate with brilliant scientists from MPI, Cal State, FSU, and SUT, exploring various fields of machine learning.  
+I have been fortunate to collaborate with brilliant scientists from McMaster, Rensselaer Polytechnic, California State, Florida State, and Sharif, exploring various fields of machine learning.  
  
 
-
-💊 Drug Discovery
+📊 Data Centric AI
 ------
-_Under supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh), California State University (Aug-Ongoing 2023)_  
+_Under supervision of [Professor Mohammad Mohammadi Amiri](https://mmamiri.github.io/), Rensselaer Polytechnic Institute (Apr-Ongoing 2024)_  
 
-Molecular fingerprints are essential cheminformatics tools for machine learning with applications in drug discovery. We develop a novel graph convolutional network (GCN) to predict the binding free energy of protein-ligand complexes. By adding a physics-based layer to the network architecture, the accuracy of the molecular fingerprint has been improved while potential overfitting has been avoided.  
+Data is the main fuel of the modern world, enabling AI and driving technological growth. As the demand for data has grown substantially, data products have become valuable assets, essential for sectors seeking high-quality data to discover knowledge. Establishing a principled method to quantify the worth of data and its value for data seekers is crucial. This is addressed through data valuation, which is an essential component for realizing a fair data trading platform for owners and seekers. In this context, data valuation becomes pivotal in marketplaces where buyers seek to enhance their existing datasets by purchasing new data from sellers. The challenge lies in ranking or selecting the datasets offered by sellers without directly exchanging the data itself, thereby preserving privacy and data integrity. Current approaches to data valuation predominantly rely on statistical methods, which often lack scalability and adaptability. I have already contributed to two papers in this area: one focusing on task-agnostic data valuation in graphs and the other on time series datasets.
 
-In this project, I had the exciting opportunity to contribute significantly by taking on the responsibility of developing and rigorously testing the PGGCN graph model. The aim was to enhance the overall performance of graph learning. What makes this project even more rewarding is the fact that our model is set to be seamlessly integrated into the esteemed Deepchem (the de facto deep learning library for chemistry) library.  
+***[The paper for the graph valuation project is available here](https://arxiv.org/abs/2408.12659).***  
+***[The paper for the time series  project is available here](https://ali-falahati.github.io/files/natural.pdf).***  
 
-Throughout the development and testing phase, my focus was on optimizing the performance of the graph model. This involved carefully fine-tuning the various components and parameters, as well as conducting rigorous testing to ensure its accuracy and reliability.  
+
+
 
 📇 ML Systems & Blockchain
 ------
@@ -32,6 +33,17 @@ My responsibility was to modify the Geth client and its underlying database to u
 This improvement in data retrieval speed opened up new possibilities for conducting analytical queries on the Ethereum blockchain, enabling more efficient and effective analysis of transactional data. This project was a significant step towards enhancing the overall functionality and performance of the Ethereum network.
 
 ***[The paper for this project is available here](https://dl.acm.org/doi/pdf/10.1145/3642968.3654814).***  
+
+💊 Drug Discovery
+------
+_Under supervision of [Professor Negin Forouzesh](https://www.calstatela.edu/faculty/negin-forouzesh), California State University (Aug-Dec 2023)_  
+
+Molecular fingerprints are essential cheminformatics tools for machine learning with applications in drug discovery. We develop a novel graph convolutional network (GCN) to predict the binding free energy of protein-ligand complexes. By adding a physics-based layer to the network architecture, the accuracy of the molecular fingerprint has been improved while potential overfitting has been avoided.  
+
+In this project, I had the exciting opportunity to contribute significantly by taking on the responsibility of developing and rigorously testing the PGGCN graph model. The aim was to enhance the overall performance of graph learning. What makes this project even more rewarding is the fact that our model is set to be seamlessly integrated into the esteemed Deepchem (the de facto deep learning library for chemistry) library.  
+
+Throughout the development and testing phase, my focus was on optimizing the performance of the graph model. This involved carefully fine-tuning the various components and parameters, as well as conducting rigorous testing to ensure its accuracy and reliability.  
+
 
 🌊 Data Science for Climate change
 ------
