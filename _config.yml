@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ali Falahati"
   avatar           :  "main.png"
-  bio              : "B.Sc. @ Sharif University"
-  location         : "Tehran, Iran"
+  bio              : "M.Sc. @ McMaster University"
+  location         : "Ontario, Canada"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=nv3v2fcAAAAJ&hl=en"
   email            :  "ali80af@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
