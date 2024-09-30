@@ -31,7 +31,7 @@ My responsibility was to modify the Geth client and its underlying database to u
 
 This improvement in data retrieval speed opened up new possibilities for conducting analytical queries on the Ethereum blockchain, enabling more efficient and effective analysis of transactional data. This project was a significant step towards enhancing the overall functionality and performance of the Ethereum network.
 
-***The paper for this project is currently in progress and is scheduled to be submitted by November.***  
+***[The paper for this project is available here](https://dl.acm.org/doi/pdf/10.1145/3642968.3654814).***  
 
 🌊 Data Science for Climate change
 ------
