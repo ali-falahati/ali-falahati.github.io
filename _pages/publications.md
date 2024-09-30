@@ -8,7 +8,7 @@ author_profile: true
 
 Disentangled Structural and Featural Representation for Task-Agnostic Graph Valuation
 ------
-Submitted to The 39th Annual AAAI Conference on Artificial Intelligence, 2024
+Submitted to The 39th Annual AAAI Conference on Artificial Intelligence, 2024  
 __Ali Falahati__, Mohammad Mohammadi Amiri
 
 With the emergence of data marketplaces, the demand for methods to assess the value of data has increased significantly. While numerous techniques have been proposed for this purpose, none have specifically addressed graphs as the main data modality. Graphs are widely used across various fields, ranging from chemical molecules to social networks. In this study, we break down graphs into two main components: structural and featural, and we focus on evaluating data without relying on specific task-related metrics, making it applicable in practical scenarios where validation requirements may be lacking. We introduce a novel framework called blind message passing, which aligns the seller's and buyer's graphs using a shared node permutation based on graph matching. This allows us to utilize the graph Wasserstein distance to quantify the differences in the structural distribution of graph datasets, called the structural disparities. We then consider featural aspects of buyers' and sellers' graphs for data valuation and capture their statistical similarities and differences, referred to as relevance and diversity, respectively. Our approach ensures that buyers and sellers remain unaware of each other's datasets. Our experiments on real datasets demonstrate the effectiveness of our approach in capturing the relevance, diversity, and structural disparities of seller data for buyers, particularly in graph-based data valuation scenarios.
@@ -18,7 +18,7 @@ With the emergence of data marketplaces, the demand for methods to assess the va
 
 Natural Selection: A Natural Visibility Approach for Task-Agnostic Time Series Dataset Valuation
 ------
-Preprint
+Preprint  
 __Ali Falahati__, Mohammad Mohammadi Amiri
 
 Valuing time series datasets effectively is crucial for enhancing machine learning
@@ -43,7 +43,7 @@ data selection for machine learning tasks.
 
 Alter Ego: A Dedicated Blockchain Node For Analytics
 ------
-Proceedings of the 7th International Workshop on Edge Systems, Analytics and Networking, 2024
+Proceedings of the 7th International Workshop on Edge Systems, Analytics and Networking, 2024  
 Qi Guo, __Ali Falahati__, Mohammad Alizadeh, Laurent Bindschaedler
 
 Blockchains today generate huge amounts of transaction data that need efficient real-time analytics for various applications like detecting smart contract hacks, performing arbitrage on decentralized exchanges, or analyzing trending tokens. However, conventional blockchain nodes and specialized ETL-based analytics systems struggle with a tradeoff between pre-calculating query results and analytical flexibility. To address this, we present AlterEgo, a blockchain node designed specifically for analytics. It can process consensus-produced blocks while providing a robust analytics API. Our prototype supports efficient transactional and analytical processing without the limitations of ETL workflows. It offers a more reliable trust model and achieves significant performance improvements compared to existing solutions.  
