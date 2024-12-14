@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ali Falahati"
-  avatar           :  "main.png"
-  bio              : "M.Sc. @ McMaster University"
-  location         : "Ontario, Canada"
+  avatar           : "main.png"
+  bio              : "MMath @ University of Waterloo"
+  location         : "Waterloo, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nv3v2fcAAAAJ&hl=en"
