@@ -9,7 +9,7 @@ redirect_from:
 ---  
 
 <!-- ![networks](/images/felan.jpg){: .align-right width="280px"} -->
-I'm currently a first-year computer science MMath student at **University of Waterloo**. I have the great honor of collaborating closely with [Professor Mohammad Mohammadi Amiri] (https://mmamiri.github.io/). I recieved my bachelor degree in Computer Science at **Sharif University of Technology**. I was a scientific intern at **Max Planck Institute for Software Systems**, Germany where I had the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and blockchain. 
+I'm currently a first-year computer science MMath student at **University of Waterloo**. I have the great honor of collaborating closely with [Professor Mohammad Mohammadi Amiri](https://mmamiri.github.io/). I recieved my bachelor degree in Computer Science at **Sharif University of Technology**. I was a scientific intern at **Max Planck Institute for Software Systems**, Germany where I had the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and blockchain. 
 
 
   
