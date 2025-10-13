@@ -46,7 +46,7 @@ ___
 
 - [06/2025] Our paper titled [Fragile by Design: Formalizing Watermarking Tradeoffs via Paraphrasing](https://icml.cc/virtual/2025/48368) was accepted by International Conference on Machine Learning (ICML) Workshop on Technical AI Governance, Vancouver, Canada, 2025.
 
-- [1/2025] Started my Master’s at the Cheriton School of Computer Science, University of Waterloo!
+- [01/2025] Started my Master’s at the Cheriton School of Computer Science, University of Waterloo!
 
 
 
