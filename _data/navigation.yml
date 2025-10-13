@@ -12,11 +12,11 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-  - title: "Publications"
-    url: /publications/    
+  # - title: "Publications"
+  #   url: /publications/    
     
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "Work"
     url: /work/
@@ -24,8 +24,8 @@ main:
   - title: "Courses"
     url: /courses/
 
-  - title: "Projects"
-    url: /pj/
+  # - title: "Projects"
+  #   url: /pj/
 
   - title: "Misc."
     url: /misc/
