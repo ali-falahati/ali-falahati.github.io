@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 
+SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching
+------
+Submitted to The 39th Annual AAAI Conference on Artificial Intelligence, 2024
+__Ali Falahati__, Mohammad Mohammadi Amiri
+
+
+
+
+
 Disentangled Structural and Featural Representation for Task-Agnostic Graph Valuation
 ------
 Submitted to The 39th Annual AAAI Conference on Artificial Intelligence, 2024
