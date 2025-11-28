@@ -32,6 +32,9 @@ ___
 🗞 News 
 ======
 
+- [11/2025] Our paper titled [The Alignment Game: A Theory of Long-Horizon Alignment Through Recursive Curation](https://arxiv.org/pdf/2511.12804) was accepted by AAAI 26, Singapore for publication!
+
+
 - [10/2025] Our paper titled [A Median Perspective on Unlabeled Data for Out-of-Distribution Detection](https://arxiv.org/pdf/2510.06505) is now available on arXiv. 
 
 - [10/2025] Gave a talk titled “We Are Losing the War for Real Data, It Is Time to Mark the Originals” at [SoLaR @ COLM 2025](https://solar-colm.github.io/program/) (October 2025).
