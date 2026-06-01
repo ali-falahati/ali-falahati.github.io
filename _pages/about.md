@@ -32,6 +32,8 @@ ___
 🗞 News 
 ======
 
+- [05/2026] Our paper [Back to the Basics: Revisiting the Median for Out-of-Distribution Detection from Unlabeled Data](https://arxiv.org/pdf/2605.12183) was accepted to Transactions on Machine Learning Research (TMLR) for publication!
+
 - [05/2025] Successfully defended my Master’s degree at the David R. Cheriton School of Computer Science, University of Waterloo!
 
 
@@ -42,7 +44,7 @@ ___
 
 - [11/2025] Our paper [The Alignment Game: A Theory of Long-Horizon Alignment Through Recursive Curation](https://arxiv.org/pdf/2511.12804) was accepted by AAAI 26, Singapore for publication!
 
-- [10/2025] Our paper [A Median Perspective on Unlabeled Data for Out-of-Distribution Detection](https://arxiv.org/pdf/2510.06505) is now available on arXiv. 
+- [10/2025] Our paper [Back to the Basics: Revisiting the Median for Out-of-Distribution Detection from Unlabeled Data](https://arxiv.org/pdf/2510.06505) is now available on arXiv. 
 
 - [10/2025] Gave a talk “We Are Losing the War for Real Data, It Is Time to Mark the Originals” at [SoLaR @ COLM 2025](https://solar-colm.github.io/program/) (October 2025).
 
