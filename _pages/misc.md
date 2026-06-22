@@ -6,7 +6,7 @@ redirect_from:
   - /project/
   - /project.html
 ---
-Here is a review of some of the best non-fiction books that I've read. I also read a lot of fiction and manga, but I prefer not to include them here (Guilty pleasure 😄).
+Besides my professional pursuits, I have a deep passion for reading. I consider myself a true bookworm. Here is a review of some of the best non-fiction books that I've read. If you want to see what I'm up to these days, consider checking my [Goodreads](https://www.goodreads.com/alifalahati).
 
 Range: Why Generalists Triumph in a Specialized World (David Epstein)
 ------

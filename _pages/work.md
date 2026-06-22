@@ -11,13 +11,11 @@ redirect_from:
 ------
 _Part-time, Tehran, Iran (Dec-Feb 2021-2023)_  
 
-I co-founded Kargo, a startup that aimed to become the first group-lancing platform for AI and data science projects. Our goal was to connect companies looking to outsource their AI projects, such as business analytics, churn prediction, sales forecasting, and data management jobs like setting up data warehouses and pipelines, with skilled freelancers in our network.  
+I co-founded Kargo, a startup that aimed to become the first group-lancing platform for AI and data science projects. Our goal was to connect companies looking to outsource their AI projects with skilled freelancers in our network.  
 
 At Kargo, I took on the responsibility of making contracts with companies that needed AI expertise. We ensured that we fully understood their project requirements and objectives. Once the contracts were established, we distributed the projects to our in-house freelancers who had the relevant skills and expertise.  
 
 Our platform provided a seamless experience for both companies and freelancers. We facilitated the entire project lifecycle, from scoping and planning to execution and delivery.   
-
-***Kargo was acquired by Hermes Capital.***
 
 
 📈 Data Scientist at Hermes Capital

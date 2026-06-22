@@ -9,7 +9,7 @@ redirect_from:
 ---  
 
 <!-- ![networks](/images/felan.jpg){: .align-right width="280px"} -->
-I'm currently a Research Associate at University of Waterloo working with [Prof. Elliot Creager](https://ecreager.github.io/). Before that, I was a research intern at Vector Institute working with [Prof. Gautam Kamath](http://www.gautamkamath.com/). I received my MMath in Computer Science from the **University of Waterloo** and fortunate to be advised by [Prof. Lukasz Golab](https://www.engineering.uwaterloo.ca/~lgolab/). I have been collaborating closely with [Prof. Mohammad Mohammadi Amiri](https://mmamiri.github.io/). I recieved my bachelor degree in Computer Science at **Sharif University of Technology**. I was a scientific intern at **Max Planck Institute for Software Systems**, Germany where I had the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/) on Graph anomaly detection and blockchain. 
+I'm currently a Research Associate at University of Waterloo working with [Prof. Elliot Creager](https://ecreager.github.io/). Before that, I was a research intern at Vector Institute working with [Prof. Gautam Kamath](http://www.gautamkamath.com/). I received my MMath in Computer Science from the **University of Waterloo** and fortunate to be advised by [Prof. Lukasz Golab](https://www.engineering.uwaterloo.ca/~lgolab/). I have been collaborating closely with [Prof. Mohammad Mohammadi Amiri](https://mmamiri.github.io/). I recieved my bachelor degree in Computer Science at **Sharif University of Technology**. I was a scientific intern at **Max Planck Institute for Software Systems**, Germany where I had the great pleasure to work with [Professor Laurent Bindschaedler](https://binds.ch/). 
 
 
   
@@ -24,8 +24,8 @@ I'm currently a Research Associate at University of Waterloo working with [Prof.
 
 
 
-Besides my professional pursuits, I have a deep passion for reading. I consider myself a true bookworm and find joy in immersing myself in books, expanding my knowledge, and exploring different worlds through literature. Reading is not only a hobby for me, but also a way to relax, learn, and broaden my perspective. You can view some of my favorite books in the [Misc.](https://ali-falahati.github.io/misc/) tab.  
-In addition to books, I also enjoy listening to podcasts.  
+<!-- Besides my professional pursuits, I have a deep passion for reading. I consider myself a true bookworm and find joy in immersing myself in books, expanding my knowledge, and exploring different worlds through literature. Reading is not only a hobby for me, but also a way to relax, learn, and broaden my perspective. You can view some of my favorite books in the [Misc.](https://ali-falahati.github.io/misc/) tab.  
+In addition to books, I also enjoy listening to podcasts.   -->
 
 ___
 
@@ -62,8 +62,8 @@ ___
 
 
 
-___
-
+<!-- ___ -->
+<!-- 
 ***Random fact***: I haven't used paper for reading and writing for the past 6 years. I'm all about digital note-taking and ebooks, you know? 📚💻  
 
->Let's do some calculations. If we assume that every student goes to class for 180 days and takes an average of 6 classes, with 2 pages used for note-taking, brainstorming, and other activities, and 2 pages used for assignments and homework for each class, we can figure out that each student uses about 3000 pages per year. Considering that each school has 200 students, and based on online research suggesting a total of around 5 million schools worldwide by 2023, schools are effectively using 3 trillion pages each year. Roughly speaking, each tree produces 10,000 sheets. So, if we calculate it, schools around the world are using ***300 million trees each year***, assuming no recycling happens. Math doesn't lie though…
+>Let's do some calculations. If we assume that every student goes to class for 180 days and takes an average of 6 classes, with 2 pages used for note-taking, brainstorming, and other activities, and 2 pages used for assignments and homework for each class, we can figure out that each student uses about 3000 pages per year. Considering that each school has 200 students, and based on online research suggesting a total of around 5 million schools worldwide by 2023, schools are effectively using 3 trillion pages each year. Roughly speaking, each tree produces 10,000 sheets. So, if we calculate it, schools around the world are using ***300 million trees each year***, assuming no recycling happens. Math doesn't lie though… -->
